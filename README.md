@@ -32,8 +32,21 @@ I'm setting up a home network to enhance internet access, share files and resour
 
 <a href=""><Home Network Setup</a>
 
-# 3. 
+# 3. Account Management / Password Reset 
 
+I’ll create user accounts, reset passwords, and assign roles and permissions using Active Directory. This involves managing user access, maintaining security, and ensuring that each user has the appropriate permissions based on their role within the network. It’s a key aspect of managing organizational resources and security.
 
+# Tools 
+- Active Directory (AD) 
 
+[ *Video link listed below* ]
+
+# Skills Learned 
+- User Account Management: Creating, modifying, and deleting user accounts efficiently.
+- Password Management: Resetting and managing passwords to maintain security.
+- Role-Based Access Control (RBAC): Assigning roles and permissions based on job functions and ensuring proper access control.
+- Security Administration: Enhancing network security by managing permissions and monitoring access.
+- Active Directory Maintenance: Understanding how to navigate and maintain Active Directory, a critical tool for IT infrastructure.
+
+<a href=""><Active Directory Account Management</a>
 

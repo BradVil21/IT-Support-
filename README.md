@@ -30,7 +30,7 @@ I'm setting up a home network to enhance internet access, share files and resour
 - Device Management: Gaining experience in managing and monitoring connected devices effectively.
 - IP Addressing: Understanding how to assign and manage IP addresses within your network.
 
-<a href=""><Home Network Setup</a>
+<a href="">Home Network Setup</a>
 
 # 3. Account Management / Password Reset 
 
@@ -48,5 +48,5 @@ I’ll create user accounts, reset passwords, and assign roles and permissions u
 - Security Administration: Enhancing network security by managing permissions and monitoring access.
 - Active Directory Maintenance: Understanding how to navigate and maintain Active Directory, a critical tool for IT infrastructure.
 
-<a href=""><Active Directory Account Management</a>
+<a href="">Active Directory Account Management</a>
 

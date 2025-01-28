@@ -28,3 +28,21 @@ View Link Here: <a href="https://github.com/BradVil21/Active-Directory/blob/main
 <br>
 View Link Here: <a href="">Network Configuration/Troubleshoooting</a>
 
+# Phishing Email Investigation: Identifying and Analyzing a Threat
+<br>
+<b>Introduction:</b> This project focuses on investigating a phishing email received by my dad, showcasing my ability to analyze and respond to real-world cybersecurity threats. The analysis includes examining email headers, investigating suspicious links and attachments, and leveraging tools like VirusTotal and OSINT methods to trace the attack's origin.<br>
+<br>
+
+<ul>
+  <li>Email Header Analysis: Extracted and analyzed email metadata to trace the sender's IP and domain.</li>
+  <li>Threat Intelligence Tools: Used VirusTotal and OSINT platforms to investigate suspicious links and attachments.</li>
+  <li>Network Troubleshooting: Identified and mitigated potential risks from phishing attempts in a secure environment.</li>
+  <li>Incident Documentation: Created detailed reports on phishing tactics and recommendations for prevention.</li>
+  <li>Secure Analysis Practices: Conducted all investigations in a controlled environment to prevent system compromise.</li>
+</ul>
+<br>
+View Link Here: <a href="">Identifying and Analyzing a Threat</a>
+
+
+
+

@@ -41,7 +41,7 @@ View Link Here: <a href="">Network Configuration/Troubleshoooting</a>
   <li>Secure Analysis Practices: Conducted all investigations in a controlled environment to prevent system compromise.</li>
 </ul>
 <br>
-View Link Here: <a href="https://github.com/BradVil21/Phishing-Email-Investigation-Identifying-and-Analyzing-a-Threat/edit/main/README.md](https://github.com/BradVil21/Phishing-Email-Investigation-Identifying-and-Analyzing-a-Threat/tree/main">Identifying and Analyzing a Threat</a>
+View Link Here: <a href="https://github.com/BradVil21/Phishing-Email-Investigation-Identifying-and-Analyzing-a-Threat">Identifying and Analyzing a Threat</a>
 
 
 

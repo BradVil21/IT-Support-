@@ -43,6 +43,21 @@ View Link Here: <a href="">Network Configuration/Troubleshoooting</a>
 <br>
 View Link Here: <a href="https://github.com/BradVil21/Phishing-Email-Investigation-Identifying-and-Analyzing-a-Threat">Identifying and Analyzing a Threat</a>
 
+# Active Directory Integrated VPN Server Configuration
+<br>
+<b>Introduction:</b> In this project, I demonstrate my ability to configure, secure, and integrate a VPN solution with Active Directory on a Windows Server 2019 environment. The tasks include setting up a VPN server for secure remote access, configuring the Netgear Orbi router to forward traffic, and ensuring seamless communication between external clients and internal resources. The project highlights my skills in managing network services, ensuring proper connectivity, and maintaining a secure infrastructure for both internal and remote communication through Active Directory-based authentication.<br>
+<br>
+
+Key Technologies:
+<ul>
+  <li> Windows Server 2019 (RRAS, Active Directory)</li>
+  <li> Netgear Orbi Router (VPN configuration & port forwarding)</li>
+  <li> VPN Protocols: PPTP, L2TP, and SSTP</li>
+  <li> Active Directory Authentication</li>
+</ul>
+<br>
+View Link Here: <a href="">Integrated VPN Server Configuration</a>
+
 
 
 
